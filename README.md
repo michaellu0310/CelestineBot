@@ -3,7 +3,7 @@ Tools Used: Visual Studio, Discord, Maplestory, Python, pytesseract
 ## Installation:
 Step 1: Install [Pytesseract](https://github.com/UB-Mannheim/tesseract/wiki) 
 
-**In VScode Virtual Environment Terminal:**
+**In VS Virtual Environment Terminal:**
 
 Step 2: Run `pip install pytesseract`
 
