@@ -1,1 +1,3 @@
 # CelestineBot
+pytesseract
+discord
