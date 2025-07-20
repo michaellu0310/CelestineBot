@@ -3,10 +3,14 @@ Tools Used: Visual Studio, Discord, Maplestory, Python, pytesseract
 ## Installation:
 Step 1: Install [Pytesseract](https://github.com/UB-Mannheim/tesseract/wiki) 
 
+**In VScode Virtual Environment Terminal:**
+
 Step 2: Run `pip install pytesseract`
 
-Step 3: Run `python3 -m pip install -U discord.py`
+Step 3: Run `discord.py`
 
 Step 4: Run `pip install pyautogui`
 
 Step 5: Run `pip install requests`
+
+Step 6: Run `pip install pillow`
