@@ -16,3 +16,5 @@ Step 5: Run `pip install requests`
 Step 6: Run `pip install pillow`
 
 Step 7: Run `pip install opencv-python`
+
+Step 8: Run `opencv-python-headless`
